@@ -7,4 +7,6 @@
 <h1>Processo Seletivo</h1>
 <p>À fim de fazer parte da equipe, montei um <a href="https://github.com/luankleber/Portfolio-NASA2021/blob/main/NASA-190930-MECATRONICA.pdf">portfólio</a> que destaque minhas habilidades e facilidade de aprendizado. No mesmo encontra-se alguns dos meus trabalhos desenvolvidos nos primeiros meses de estudo da ferramente Blender. Além de minhas afeições ao tema abordado.</p>
 <h1>Conclusão</h1>
-<p> Ao final do projeto, recebi um <a href="https://drive.google.com/file/d/1RegkxTVjcovMNAgwXz6IEyvm-qes99Yu/view">certificado</a>, além da confiança da equipe para continuar atuando nas próximas edições do projeto enquanto aluno da FACENS.
+<p> Ao final do projeto, recebi um <a href="https://drive.google.com/file/d/1RegkxTVjcovMNAgwXz6IEyvm-qes99Yu/view">certificado</a>, além da confiança da equipe para continuar atuando nas próximas edições do projeto enquanto aluno da FACENS.</p>
+
+<img src="./blender.png">
